@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Poseidon Dashboard</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="text">Text:</string>
+    <string name="observed_phones">Observed Phones:</string>
+    <string name="poseidon">Poseidon</string>
 </resources>

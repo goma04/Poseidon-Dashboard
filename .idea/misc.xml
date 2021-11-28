@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Coding/Android/Poseidon-Dashboard/app/src/main/res/drawable/gradient.xml" value="0.2578125" />
+        <entry key="..\:/Coding/Android/Poseidon-Dashboard/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13541666666666666" />
+        <entry key="..\:/Coding/Android/Poseidon-Dashboard/app/src/main/res/drawable/rounded_corner.xml" value="0.2578125" />
+        <entry key="..\:/Coding/Android/Poseidon-Dashboard/app/src/main/res/drawable/textview_border.xml" value="0.2578125" />
+        <entry key="..\:/Coding/Android/Poseidon-Dashboard/app/src/main/res/layout/activity_entry.xml" value="0.2" />
+        <entry key="..\:/Coding/Android/Poseidon-Dashboard/app/src/main/res/layout/activity_phonedetails.xml" value="0.2" />
+        <entry key="..\:/Coding/Android/Poseidon-Dashboard/app/src/main/res/layout/item_phone_list.xml" value="0.10416666666666667" />
+        <entry key="..\:/Coding/Android/Poseidon-Dashboard/app/src/main/res/layout/item_sms_list.xml" value="0.264" />
         <entry key="..\:/Programozas/Android/PoseidonDashboard/app/src/main/res/layout/activity_entry.xml" value="0.1634963768115942" />
         <entry key="..\:/Programozas/Android/PoseidonDashboard/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Programozas/Android/PoseidonDashboard/app/src/main/res/layout/activity_phonedetails.xml" value="0.16799999999999998" />

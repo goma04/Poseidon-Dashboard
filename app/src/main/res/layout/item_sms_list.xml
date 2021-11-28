@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:layout_marginBottom="12dp"
+
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvPhoneNumber"
+        android:textColor="@color/white"
+        android:paddingStart="5dp"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/textview_border"
+         />
+
+    <TextView
+        android:id="@+id/tvSmsText"
+        android:textColor="@color/white"
+        android:paddingStart="5dp"
+        android:textSize="20sp"
+        android:background="@drawable/textview_border"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       />
+</LinearLayout>
