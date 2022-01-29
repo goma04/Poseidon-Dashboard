@@ -1,0 +1,1 @@
+A projekt admin felülete (Android alkalmazás) a kliens által az adatbázisban eltárolt adatokat dolgozza fel és jeleníti meg ember által olvasható formában. A projekt kizárólag tanulási célból készült, éles alkalmazása nem megengedett!
